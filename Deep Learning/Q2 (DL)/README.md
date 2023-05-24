@@ -5,4 +5,4 @@ dataset using the PyTorch library.
 Note -
 1. The model parameters for each architecture should not be more than 10000
 parameters
-2 Code comments should be given for proper code understanding
+2  Code comments should be given for proper code understanding

@@ -17,6 +17,7 @@ Each record in the dataset consists of the following attributes:
 `link:` link to the original news article.
 `short_description:` Abstract of the news article.
 `date:` publication date of the article.
+
 There are a total of 42 news categories in the dataset. The top-15 categories and corresponding article counts are as follows:
 
 POLITICS: 35602

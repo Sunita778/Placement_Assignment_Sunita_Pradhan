@@ -8,7 +8,6 @@ would belong to a different user in a 1-year period to avoid
 any tendency to a specific campaign, special day, user
 profile, or period.
 
-
 #### Attribute Information:
 The dataset consists of 10 numerical and 8 categorical attributes.
 The 'Revenue' attribute can be used as the class label.
